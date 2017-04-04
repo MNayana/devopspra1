@@ -1,2 +1,3 @@
 #!/bin/bash
-echo "testing merging"
+
+echo "testing merging.."
